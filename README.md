@@ -1,4 +1,14 @@
 # Day-third
 Third day on github.....
 
-Just trying to figure out more. Working on it.
+Simple sum program
+
+#include<stdio.h>
+#include<conio.h>
+
+void main(){
+  int a, b, sum;
+    sum = a+b;
+  return sum;
+getch();
+}
